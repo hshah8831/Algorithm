@@ -41,6 +41,7 @@
  * and Q.y, the closest pair of points (P.x, P.y) and (Q.x, Q.y).
  * 
  *
+ * 
  *  Limits
  * ====================
  * 1 <=   N  <= 100000
